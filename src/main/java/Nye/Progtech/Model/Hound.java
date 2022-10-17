@@ -4,9 +4,9 @@ import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlType;
 
 /** 
- * A hound is a figure on the table. 
- * It has two coordinates, one for row (y) and one for column (x).
- * It can take only forwards steps.
+ * A Kutya 
+ * Ket koordinataja van.
+ * Csak előre tud haladni.
  */
 
 @XmlType
