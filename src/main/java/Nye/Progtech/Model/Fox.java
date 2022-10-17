@@ -3,8 +3,8 @@ package business_logic;
 import javax.xml.bind.annotation.XmlType;
 
 /** 
- * A fox is a figure on the table. 
- * It has two coordinates, one for row (y) and one for column (x).
+ * A Roka 
+ 
  */
 
 @XmlType
